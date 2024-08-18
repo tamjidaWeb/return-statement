@@ -1,41 +1,41 @@
-// // function myName(){
-// //     alert('sadia');
-// //     return "sadia";
-// // }
-// // let funTime = myName();
-// // console.log(funTime);
+// function myName(){
+//     alert('sadia');
+//     return "sadia";
+// }
+// let funTime = myName();
+// console.log(funTime);
 
 
-// function myMan(a, b){
-//    console.log('hello1');
-//    console.log('hello2');
-//    console.log('hello3');
-//    console.log('hello4');
+function myMan(a, b){
+   console.log('hello1');
+   console.log('hello2');
+   console.log('hello3');
+   console.log('hello4');
 
-//    if(a == 'test'){
-//     return 'firstname test';
-//    }
-//    console.log('hello5');
-//    console.log('hello6');
+   if(a == 'test'){
+    return 'firstname test';
+   }
+   console.log('hello5');
+   console.log('hello6');
 
-//    if(b == "jaan"){
-//     return;
-//    }
+   if(b == "jaan"){
+    return;
+   }
 
-//    console.log('hello7');
-//    console.log('hello8');
+   console.log('hello7');
+   console.log('hello8');
    
 
-//    let myScore = 0;
-//    if(a == 'raj' && b =='sadia'){
-//     myScore = 100;
-//    }
-//    return myScore;
-// }
+   let myScore = 0;
+   if(a == 'raj' && b =='sadia'){
+    myScore = 100;
+   }
+   return myScore;
+}
 
 
-// let hi = myMan('raj', 'sadia');
-// console.log(hi);
+let hi = myMan('raj', 'sadia');
+console.log(hi);
 
 
 function memberRegistration (memberId, memeberAge){
